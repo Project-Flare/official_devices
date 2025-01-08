@@ -1,4 +1,5 @@
-# Changelogs 1.0-BETA
+# Changelogs 1.0
+- January QPR1 security patch
 - Theming customizations
 - Statusbar tuner
 - Ignore window secure flags
