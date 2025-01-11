@@ -1,0 +1,31 @@
+Device name: Poco F6/ Redmi Turbo 3
+Device codename: peridot
+Device maintainer: kenway214
+
+
+## Project-Flare 15
+
+**Device Changelog 12.1.2025**
+
+- Initial A15 build
+- QPR1 with January security patch
+- Device certified and play integrity passes
+- Included Leica Camera (4K 60fps available), HyperOS Gallery, Gallery AI Editor.
+- Dolby Atmos, spatial audio and Dolby Vision .
+- Included per app refresh rate ,High Touch Sampling Rate(HTSR)
+- Included custom display saturation slider
+- Included combined Per-App Thermal Profile (Settings > Battery) and Thermal Profile Tile Service (Quick Settings)
+      • Per-App Thermal Profile (Settings > Battery)
+  - Added a Master Switch for Per-App Thermal Profile.
+  - Automatically determine thermal profiles for apps.
+  - Master Switch is disabled by default on the initial reboot. 
+  - When Per-App Thermal Profile is enabled (via Master Switch):
+          Thermal Profile Tile Service is automatically disabled.
+          Thermal profiles are applied on a per-app basis.
+  - When the Master Switch is disabled (via Master Switch):
+          System-wide Thermal Profile Tile Service is automatically enabled.
+      • Thermal Profile Tile Service (Available via Quick Settings):
+          Includes only three modes: Default, Performance, Battery Saver
+          Battery Thermal Profile: Automatically enables system-wide Battery Saver mode when set.
+- kernel: Realking V4 kernel
+- BCR to 1.74
