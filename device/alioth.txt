@@ -1,0 +1,9 @@
+Changelogs For ProjectFlare 1.0
+Build Date: 12/01/2025
+
+- Initial release
+- QPR1 with January security patch
+- Device certified and play integrity passes
+- Both dolby and leica cam present 
+- Increased zram size for 6gb users
+- Many more improvements for soother ui and user experince
