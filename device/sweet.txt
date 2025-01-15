@@ -1,0 +1,18 @@
+Changelogs 1.0-STABLE
+- Intial OFFICIAL build
+- January security patch
+- Enabled LTE+ icon from carrier config overlay
+- Optimized wifi connectivity
+- Disabled wallpaper zooming
+- RAM management optimization
+- Battery saving tweaks in various aspects
+- Fixed battery drain due to statsd
+- Import Dolby Atmos from Oneplus
+- Updated MIUI Camera for QPR1
+
+NOTE:
+- Signed build
+- Safetynet and certification passed
+
+CREDITS:
+- Thanks @tgman91 @bnexxus and @HelmSweet for testing
