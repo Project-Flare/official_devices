@@ -1,0 +1,19 @@
+Device name: Mi 11X Pro/Redmi K40 Pro+/Mi 11i
+Device codename: haydn
+Device maintainer: Asim_Bhoi
+
+
+## Project-Flare 15
+
+**Device Changelog 17.1.2025**
+
+- Intial OFFICIAL build
+- January security patch
+- Dolby Atmos Included
+- Bcr Included
+- Leica Cam Included
+- Switch To AIDL Thermal HAL
+- Switch To QTI Memtrack AIDL HAL
+- Included Per App Refresh Rate 
+- Included Per App Thermal Profile
+- Kernelicious Kernel With KernelSU-Next Support
