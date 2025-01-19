@@ -1,0 +1,6 @@
+**Device Changelog 19.1.2025**
+
+- Intial OFFICIAL build
+- January security patch
+- Moto Dolby Included
+- Leica Cam Included
