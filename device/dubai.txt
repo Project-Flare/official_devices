@@ -1,0 +1,13 @@
+Project Flare Changelogs (for Motorola Edge 30)
+By JoséMCC
+
+Project Flare 1.0 (22/01/2025):
+- Initial release
+- Synced with latest source 1.0
+- Android 15 QPR1
+- January SP
+- Signed with release-keys
+- Included latest KernelSU-Next 1.0.3
+- Included Motorola Cam
+- Included latest Motorola Dolby with a15 UI
+- Using 5G by default if is available
