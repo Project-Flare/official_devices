@@ -1,3 +1,10 @@
+**Device Changelog 23.1.2025**
+
+- Fixed Always high volume 
+- Adjust night light color temperature
+- Added some vonr props
+
+
 **Device Changelog 19.1.2025**
 
 - Intial OFFICIAL build
