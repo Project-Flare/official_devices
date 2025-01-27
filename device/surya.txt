@@ -1,0 +1,9 @@
+Changelogs 1.0-STABLE
+- Intial OFFICIAL build
+- January security patch
+- Fixed circle to search
+- Added quick tap feature
+- Optimized wifi connectivity
+- Switched to c2 codecs
+- Dropped OMX codecs 
+- Import Dolby Atmos from Oneplus
