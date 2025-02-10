@@ -1,0 +1,11 @@
+Changelogs v1.1
+Build Date: 10/02/25
+- Initial Offical Build 
+- Miui Camera Included 
+- Added ViperFX
+- Non-KSU Build
+
+Credits:
+- LOS and crDroid for kernel
+- @xyz_sourav for MemeUI Cam
+- @iamansingh for Wifi Fix
