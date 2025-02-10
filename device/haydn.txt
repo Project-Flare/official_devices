@@ -1,6 +1,6 @@
 Device name: Mi 11X Pro/Redmi K40 Pro+/Mi 11i
 Device codename: haydn
-Device maintainer: Asim_Bhoi
+Device maintainer: Hexdare
 
 
 ## Project-Flare 15
