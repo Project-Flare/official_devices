@@ -1,3 +1,17 @@
+Changelogs 1.1-STABLE
+- February security patch
+- Circle to search fixed
+- Switched to Vantom Kernel
+- Rebased device trees
+
+NOTE:
+- Signed build
+- Safetynet and certification passed
+
+CREDITS:
+- Thanks @bnexxus and @HelmSweet for testing
+- Thanks Aryan, Arian and Vantom for the device sources
+
 Changelogs 1.0-STABLE
 - Intial OFFICIAL build
 - January security patch
