@@ -1,0 +1,11 @@
+Changelogs v1.1
+Build Date: 11/02/25
+- Initial Offical Build 
+
+Notes
+- use this recovery https://t.me/mi_msm8937/959
+- installation guide here https://t.me/mi_msm8937/416
+- EROFS and kernel 4.19
+
+Credits
+- 0xCAFEBABE for Mi8937 trees
