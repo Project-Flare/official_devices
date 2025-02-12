@@ -1,3 +1,15 @@
+Changelogs For ProjectFlare 1.1
+Build Date: 12/02/2025
+
+- February security patch
+- Device certified and play integrity passes
+- Updated leica cam to 5.0
+- But front cam video broken(thnaks to google qpr1),,use gcam for front cam video recoridng
+- Fixed powerhuint spamming
+- Moved to Pixel hal
+- More improvements for soother ui and user experince
+
+
 Changelogs For ProjectFlare 1.0
 Build Date: 12/01/2025
 
@@ -7,3 +19,11 @@ Build Date: 12/01/2025
 - Both dolby and leica cam present 
 - Increased zram size for 6gb users
 - Many more improvements for soother ui and user experince
+
+
+CREDITS:
+• @johnmart19 for base trees and leica implantation 
+
+• @EmanuelCN0 for the awesome kernel
+
+• Lineage devs for their work on common trees
