@@ -1,0 +1,16 @@
+Changelogs 1.1-STABLE
+- February security patch
+- Circle to search fixed
+- No dolby for now
+- Update QCC blobs from ingot
+- 64-bit build only
+- Import powerhint for device stability
+
+NOTE:
+- Signed build
+- Safetynet and certification passed
+- Miuicamera Included
+
+CREDITS:
+- Thanks @grewal for all resources
+- Thanks SM-7435 Development HUB
