@@ -5,6 +5,36 @@ Device maintainer: kenway214
 
 ## Project-Flare 15
 
+**Device Changelog 16.2.2025**
+
+- QPR1 with Feb security patch
+- Introduce Automatic High Brightness Mode (HBM)
+- Introduce one-shot HBM via Quick Settings tile (QS tile will be unavailable if Automatic HBM service is enabled)
+- Fixed Automatic High Brightness Mode (HBM) not working properly after device restart (Note: 5-second delay added after restart)
+- In QS, there are now two separate QS tiles: "Auto HBM" and "HBM"
+- Introduced long press on QS tiles (Touch Boost tile, HBM tile, Thermal Profile, and Refresh Rate tile) to open the main settings page
+- Enabled proper notifications when each QS tile is activated
+- Added RefreshRate QS tile
+- Fixup High Touch Sampling Rate (HTSR) service logic
+- ThermalTileService: Automatically switched to battery thermal profile when system battery saver mode on
+- ThermalTileService: Disable cpu lpm in performance mode
+- ThermalTileService: Enable notification for performence mode
+- ThermalTileService: Introduced Process Priority and Memory Trimming Level for better performance (Performance Mode Thermal) and better battery life (Battery Saver Thermal)
+- Introduce DSPVolumeSynchronizer - prevent speaker distortion at high volume
+- audio: Fix mic issues in apps like WhatsApp
+- Import missing audio vendor and odm props
+- Fixed incoming call number duplication
+- Reverted fix for the top speaker to prevent buzzing sound from the top speaker on the lock screen and during calls
+- Dropped HyperOS Gallery, Gallery Editor, HyperOS Bokeh, and MIUI Video Player
+- Fixed Leica not opening in the lock screen widget
+- Fixed double-clicking the power button while on the lock screen to open the Leica camera
+- rootdir: Set restricted cpuset to the same CPUs as system-background
+- parts: Reset touch sampling rate on service destruction and Refactor code
+- Fixed whatsapp videocall issues
+- Fixed snapchat camera lenses not working
+- rootdir: Move background cpuset to CPU0-1
+
+
 **Device Changelog 12.1.2025**
 
 - Initial A15 build
