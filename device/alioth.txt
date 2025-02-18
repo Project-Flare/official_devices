@@ -1,3 +1,12 @@
+Changelogs For ProjectFlare 1.1 HOTFIX
+Build Date: 19/02/2025
+
+- Fixed leica front video not saving
+- Mute some ims logspam
+- Optimized wifi to be more efficient
+- Added more props for smoother ui and power managment 
+
+
 Changelogs For ProjectFlare 1.1
 Build Date: 12/02/2025
 
