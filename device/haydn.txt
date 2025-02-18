@@ -5,7 +5,26 @@ Device maintainer: Hexdare
 
 ## Project-Flare 15
 
-**Device Changelog 17.1.2025**
+**Device Changelog v1.1 | 18.2.2025**
+
+- February security patch
+- Fixed all Leica Cam issues
+- Updated Firmware to HAYDNGlobal_OS1.0.14.0.UKKMIXM
+- Add IHighTouchPollingRate
+- Add Dolby Media Codec
+- Sync with Spatial Audio
+- Switch audio HAL to V7
+- Add dolby volume listener
+- Bring all stream effects
+- Import OOS modified volumes
+- Remove duplicate snxxx AIDL rules
+- Expose aux cameras to com.android.camera and Aperture
+- Expose aux cameras to com.snapchat.android
+- Fix vendor.qti.diaghal@1.0 elf checks
+- Import diag related usb entries
+- Changed Kernel to FarFromStock (KernelSU-Next Included)
+
+**Device Changelog v1.0 | 17.1.2025**
 
 - Intial OFFICIAL build
 - January security patch
