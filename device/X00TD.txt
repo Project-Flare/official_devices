@@ -1,0 +1,14 @@
+≡ v1.1 21/02/2025
+
+Changelogs:
+- Initial Official Release
+- Synced with latest source
+- February Security Patch
+
+Credits:
+- @Bumbukaripakesapi for testing
+
+# Notes:
+- Non-FBE, LV and 4.19 based build
+- Pie firmware 063 or 087 recommended
+- GApps already included.
