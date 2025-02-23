@@ -1,3 +1,16 @@
+Changelogs For ProjectFlare 1.1 last qpr1
+Build Date: 23/02/2025
+
+- Added DSPVolumeSynchronizer
+ * Some Xiaomi devices have a speaker that needs a framework to cooperate
+with DSP to synchronize volume so that the DSP can limit bass when the
+volume is high to prevent distortion.
+
+- Implement torch light control
+ * adapt for led nodes for alioth
+
+- Added more props for battery saving and mute some useless log spam 
+
 Changelogs For ProjectFlare 1.1 HOTFIX
 Build Date: 19/02/2025
 
