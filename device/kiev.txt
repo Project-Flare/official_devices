@@ -1,1 +1,19 @@
+Device name: otorola Moto G 5G / One 5G Ace
+Device codename: kiev
+Device maintainer: tilt-rgb
 
+
+## Project-Flare 15
+
+**Device Changelog v1.1 | 25.2.2025**
+
+- Switch to 64 bits only (be careful if you have 32-bit only applications before updating)
+- Updated Thermal Blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+- Updated Keymaster/Gatekeeper blobs from LA.UM.9.1.r1-13700-SMxxx0.QSSI13.0
+- Droped OMX Support (migrated to Codec2)
+- Migrate to QCOM implementation for audio effects
+- Disable FRP
+- Updated CarrierConfig
+- Backported MGLRU
+- Dropped all moto audio effects :/
+- Import audio_amplifier HAL from FP4
