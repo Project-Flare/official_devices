@@ -1,3 +1,13 @@
+Changelogs v1.1
+Build Date: 01/03/25
+- Removed software c2 codec overrides
+- Added google_battery to FCM & Manifest
+- Fixed battery drain due to stated
+- Reduced zram to 50% to prevent thrashing
+- Enabled deep buffer for media by default
+- Enabled WPA3/SAE
+- Updated display flags & packages
+
 Changelogs v1.0
 Build Date: 02/02/25
 - Initial Offical Build 
