@@ -1,0 +1,19 @@
+Highlights & Device Specific Changes:
+Build type: Stable/Monthly
+Device name: Poco F5/Redmi Note 12 Turbo
+Device codename: marble
+Device maintainer: SharmagRit
+
+=×=×= 02nd March 2024 =×=×=
+* Synced with latest FlareOS v1.1 source
+* Added Torch light control support
+* Added thermal profiles
+* Added props for better battery backup
+* Added HBM & Auto HBM tiles
+* Silence some logspam
+* Added fp denials & lable some property
+* Added support for bass enhancer for speaker
+* Added support for 60hz in landscape
+* Enable 64bit fp hal
+* Set product shipping API level to 33
+* Added support for DSPVolumeSynchronizer
