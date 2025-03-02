@@ -1,0 +1,17 @@
+Device name: Redmi Note 7/7s
+Device codename: lavender
+Device maintainer: Aeoniixx
+
+# Device Changelogs v1.1 | 01/03/2025
+- Initial Official Release 
+- Drop Dirac
+- Fixed DRM
+- Setup DeviceAsWebcam
+- Add Viper4AndroidFX
+- Silence some spammy logs
+- Switch to common lights HAL
+- Remove OMX audio codecs
+- Move to QTI health AIDL service
+- Enable config_avoidGfxAccel prop
+- Switch to KernelSU Next with susfs
+- Many more under the hood changes
