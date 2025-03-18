@@ -1,0 +1,128 @@
+[
+    {
+        "device": "Redmi Note 10 Pro/Pro Max",
+        "codename": "sweet",
+        "maintainer": "igadityasingh & @kamleshpatidar",
+        "sgroup": "https://t.me/projectflaresweet"
+    },
+    {
+        "device": "Poco F3 / Mi 11X / Redmi K40",
+        "codename": "alioth",
+        "maintainer": "SanjiVns",
+        "sgroup": "https://t.me/sanjissupport"
+    },
+    {
+        "device": "Poco F1",
+        "codename": "beryllium",
+        "maintainer": "NotDheeraj06",
+        "sgroup": "https://t.me/NotDheeraj06_Builds"
+    },
+    {
+        "device": "Poco X3",
+        "codename": "surya",
+        "maintainer": "BrainDead66",
+        "sgroup": "https://t.me/projectblaze"
+    },
+    {
+        "device": "Redmi Note 11",
+        "codename": "spes",
+        "maintainer": "sayann70",
+        "sgroup": "https://t.me/+k6wGamr3-H1jNjVl"
+    },
+    {
+        "device": "Moto G 5G / One 5G Ace",
+        "codename": "kiev",
+        "maintainer": "rgb_tilt",
+        "sgroup": "https://t.me/MotoG5GOfficial"
+    },
+    {
+        "device": "Poco X5 Pro",
+        "codename": "redwood",
+        "maintainer": "Jezzay97",
+        "sgroup": "https://t.me/as_build_redwood"
+    },
+    {
+        "device": "Redmi Note 12 5G / Poco X5 5G",
+        "codename": "stone",
+        "maintainer": "Nomishaw",
+        "sgroup": "https://t.me/Nomi_builds"
+    },
+    {
+        "device": "Motorola Edge 30",
+        "codename": "dubai",
+        "maintainer": "josemcc0705",
+        "sgroup": "https://t.me/JoseMCCBuilds"
+    },
+    {
+        "device": "Poco X4 Pro 5G",
+        "codename": "veux",
+        "maintainer": "Prathamk7",
+        "sgroup": "https://t.me/rex_builds_veux"
+    },
+    {
+        "device": "Poco F5 5G",
+        "codename": "marble",
+        "maintainer": "SharmagRit",
+        "sgroup": "https://t.me/marble_builds"
+    },
+    {
+        "device": "Poco F6",
+        "codename": "peridot",
+        "maintainer": "ph12nex",
+        "sgroup": "https://t.me/pandemonium_haydn"
+    },
+    {
+        "device": "Nothing Phone (2)",
+        "codename": "Pong",
+        "maintainer": "dhruvesh_23",
+        "sgroup": "https://t.me/flare_pong"
+    },
+    {
+        "device": "Redmi Note 13 Pro 5G/Poco X6 5G",
+        "codename": "garnet",
+        "maintainer": "ramaadni",
+        "sgroup": "https://t.me/rmdnsupport"
+    },
+    {
+        "device": "Poco X3 Pro",
+        "codename": "vayu",
+        "maintainer": "GXC2356",
+        "sgroup": "https://t.me/GXC_discussion"
+    },
+    {
+        "device": "Mi 11X Pro",
+        "codename": "haydn",
+        "maintainer": "Hexdare",
+        "sgroup": "https://t.me/asimbuildsupport"
+    },
+    {
+        "device": "Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1",
+        "codename": "mi8937",
+        "maintainer": "rve270",
+        "sgroup": "https://t.me/rvosuniverse/33605"
+    },
+    {
+        "device": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
+        "codename": "salaa",
+        "maintainer": "EvilAnsh",
+        "sgroup": "https://t.me/AnshBuilds"
+    },
+    {
+        "device": "Redmi Note 7/7s",
+        "codename": "lavender",
+        "maintainer": "Aeoniixx",
+        "sgroup": "https://t.me/AeoniixxAOSP"
+    },
+    {
+        "device": "Realme 6/6i(Indian)/6s/Narzo",
+        "codename": "RMX2001L1",
+        "maintainer": "EvilAnsh",
+        "sgroup": "https://t.me/AnshBuilds"
+    },
+    {
+        "device": "Asus Zenfone Max Pro M1",
+        "codename": "X00TD",
+        "maintainer": "queenserenade",
+        "sgroup": "https://t.me/wzrdgrp"
+    }
+]
