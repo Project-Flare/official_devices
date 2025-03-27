@@ -3,126 +3,147 @@
         "device": "Redmi Note 10 Pro/Pro Max",
         "codename": "sweet",
         "maintainer": "igadityasingh & @kamleshpatidar",
-        "sgroup": "https://t.me/projectflaresweet"
+        "sgroup": "https://t.me/projectflaresweet",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/sweet"
     },
     {
         "device": "Poco F3 / Mi 11X / Redmi K40",
         "codename": "alioth",
         "maintainer": "SanjiVns",
-        "sgroup": "https://t.me/sanjissupport"
+        "sgroup": "https://t.me/sanjissupport",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/alioth"
     },
     {
         "device": "Poco F1",
         "codename": "beryllium",
         "maintainer": "NotDheeraj06",
-        "sgroup": "https://t.me/NotDheeraj06_Builds"
+        "sgroup": "https://t.me/NotDheeraj06_Builds",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/beryllium"
     },
     {
         "device": "Poco X3",
         "codename": "surya",
         "maintainer": "BrainDead66",
-        "sgroup": "https://t.me/projectblaze"
+        "sgroup": "https://t.me/projectblaze",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/surya"
     },
     {
         "device": "Redmi Note 11",
         "codename": "spes",
         "maintainer": "sayann70",
-        "sgroup": "https://t.me/+k6wGamr3-H1jNjVl"
+        "sgroup": "https://t.me/+k6wGamr3-H1jNjVl",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/spes"
     },
     {
         "device": "Moto G 5G / One 5G Ace",
         "codename": "kiev",
         "maintainer": "rgb_tilt",
-        "sgroup": "https://t.me/MotoG5GOfficial"
+        "sgroup": "https://t.me/MotoG5GOfficial",
+		"sdownload": "https://sourceforge.net/projects/projectflare/files/kiev"
     },
     {
         "device": "Poco X5 Pro",
         "codename": "redwood",
         "maintainer": "Jezzay97",
-        "sgroup": "https://t.me/as_build_redwood"
+        "sgroup": "https://t.me/as_build_redwood",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/redwood"
     },
     {
         "device": "Redmi Note 12 5G / Poco X5 5G",
         "codename": "stone",
         "maintainer": "Nomishaw",
-        "sgroup": "https://t.me/Nomi_builds"
+        "sgroup": "https://t.me/Nomi_builds",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/stone"
     },
     {
         "device": "Motorola Edge 30",
         "codename": "dubai",
         "maintainer": "josemcc0705",
-        "sgroup": "https://t.me/JoseMCCBuilds"
+        "sgroup": "https://t.me/JoseMCCBuilds",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/dubai"
     },
     {
         "device": "Poco X4 Pro 5G",
         "codename": "veux",
         "maintainer": "Prathamk7",
-        "sgroup": "https://t.me/rex_builds_veux"
+        "sgroup": "https://t.me/rex_builds_veux",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/veux"
     },
     {
         "device": "Poco F5 5G",
         "codename": "marble",
         "maintainer": "SharmagRit",
-        "sgroup": "https://t.me/marble_builds"
+        "sgroup": "https://t.me/marble_builds",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/marble"
     },
     {
         "device": "Poco F6",
         "codename": "peridot",
         "maintainer": "ph12nex",
-        "sgroup": "https://t.me/pandemonium_haydn"
+        "sgroup": "https://t.me/pandemonium_haydn",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/peridot"
     },
     {
         "device": "Nothing Phone (2)",
         "codename": "Pong",
         "maintainer": "dhruvesh_23",
-        "sgroup": "https://t.me/flare_pong"
+        "sgroup": "https://t.me/flare_pong",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/Pong"
     },
     {
         "device": "Redmi Note 13 Pro 5G/Poco X6 5G",
         "codename": "garnet",
         "maintainer": "ramaadni",
-        "sgroup": "https://t.me/rmdnsupport"
+        "sgroup": "https://t.me/rmdnsupport",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/Pong"
     },
     {
         "device": "Poco X3 Pro",
         "codename": "vayu",
         "maintainer": "GXC2356",
-        "sgroup": "https://t.me/GXC_discussion"
+        "sgroup": "https://t.me/GXC_discussion",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/vayu"
     },
     {
         "device": "Mi 11X Pro",
         "codename": "haydn",
         "maintainer": "Hexdare",
-        "sgroup": "https://t.me/asimbuildsupport"
+        "sgroup": "https://t.me/asimbuildsupport",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/haydn"
     },
     {
         "device": "Redmi 3S/3X/4/4A/4X/5A/Note 5A/Y1",
         "codename": "mi8937",
         "maintainer": "rve270",
-        "sgroup": "https://t.me/rvosuniverse/33605"
+        "sgroup": "https://t.me/rvosuniverse/33605",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/mi8937"
     },
     {
         "device": "Realme 7/Narzo 20 Pro/Narzo 30 4G",
         "codename": "salaa",
         "maintainer": "EvilAnsh",
-        "sgroup": "https://t.me/AnshBuilds"
+        "sgroup": "https://t.me/AnshBuilds",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/salaa"
     },
     {
         "device": "Redmi Note 7/7s",
         "codename": "lavender",
         "maintainer": "Aeoniixx",
-        "sgroup": "https://t.me/AeoniixxAOSP"
+        "sgroup": "https://t.me/AeoniixxAOSP",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/lavender"
     },
     {
         "device": "Realme 6/6i(Indian)/6s/Narzo",
         "codename": "RMX2001L1",
         "maintainer": "EvilAnsh",
-        "sgroup": "https://t.me/AnshBuilds"
+        "sgroup": "https://t.me/AnshBuilds",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/RMX2001L1"
     },
     {
         "device": "Asus Zenfone Max Pro M1",
         "codename": "X00TD",
         "maintainer": "queenserenade",
-        "sgroup": "https://t.me/wzrdgrp"
+        "sgroup": "https://t.me/wzrdgrp",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/X00TD"
     }
 ]
