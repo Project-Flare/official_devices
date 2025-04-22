@@ -145,5 +145,12 @@
         "maintainer": "queenserenade",
         "sgroup": "https://t.me/wzrdgrp",
         "sdownload": "https://sourceforge.net/projects/projectflare/files/X00TD"
+    },
+    {
+        "device": "Realme 9 Speed Edition",
+        "codename": "ice",
+        "maintainer": "Debarpan01",
+        "sgroup": "https://t.me/Realme9se_official"
+	"sdownload": "https://sourceforge.net/projects/projectflare/files/ice"
     }
 ]
