@@ -4,42 +4,42 @@
         "codename": "sweet",
         "maintainer": "igadityasingh & @kamleshpatidar",
         "sgroup": "https://t.me/projectflaresweet",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/sweet"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/sweet"
     },
     {
         "device": "Poco F3 / Mi 11X / Redmi K40",
         "codename": "alioth",
         "maintainer": "SanjiVns",
         "sgroup": "https://t.me/sanjissupport",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/alioth"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/alioth"
     },
     {
         "device": "Poco F1",
         "codename": "beryllium",
         "maintainer": "NotDheeraj06",
         "sgroup": "https://t.me/NotDheeraj06_Builds",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/beryllium"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/beryllium"
     },
     {
         "device": "Poco X3",
         "codename": "surya",
         "maintainer": "BrainDead66",
         "sgroup": "https://t.me/projectblaze",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/surya"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/surya"
     },
     {
         "device": "Redmi Note 11",
         "codename": "spes",
         "maintainer": "sayann70",
         "sgroup": "https://t.me/+k6wGamr3-H1jNjVl",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/spes"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/spes"
     },
     {
         "device": "Moto G 5G / One 5G Ace",
         "codename": "kiev",
         "maintainer": "rgb_tilt",
         "sgroup": "https://t.me/MotoG5GOfficial",
-		"sdownload": "https://sourceforge.net/projects/projectflare/files/kiev"
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/kiev"
     },
     {
         "device": "Poco X5 Pro",
@@ -150,7 +150,7 @@
         "device": "Realme 9 Speed Edition",
         "codename": "ice",
         "maintainer": "Debarpan01",
-        "sgroup": "https://t.me/Realme9se_official"
-	"sdownload": "https://sourceforge.net/projects/projectflare/files/ice"
+        "sgroup": "https://t.me/Realme9se_official",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/ice"
     }
 ]
