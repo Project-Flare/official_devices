@@ -152,5 +152,12 @@
         "maintainer": "Debarpan01",
         "sgroup": "https://t.me/Realme9se_official",
         "sdownload": "https://sourceforge.net/projects/projectflare/files/ice"
+    },
+    {
+        "device": "Xiaomi Pad 6",
+        "codename": "pipa",
+        "maintainer": "CuriousNom",
+        "sgroup": "https://t.me/RomCentralHub",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/pipa"
     }
 ]
