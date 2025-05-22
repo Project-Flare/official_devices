@@ -1,3 +1,7 @@
+# Changelogs 1.5
+- Initial QPR2 Release
+- May Security patch
+
 # Changelogs 1.1
 - February Security patch
 - Fixed Circle to Search
