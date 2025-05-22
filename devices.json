@@ -159,5 +159,12 @@
         "maintainer": "CuriousNom",
         "sgroup": "https://t.me/RomCentralHub",
         "sdownload": "https://sourceforge.net/projects/projectflare/files/pipa"
+    },
+    {
+        "device": "Xiaomi 11 Lite 4G",
+        "codename": "courbet",
+        "maintainer": "AbdalrahmnEisse",
+        "sgroup": "https://t.me/BoodyProjects_Support",
+        "sdownload": "https://sourceforge.net/projects/projectflare/files/courbet"
     }
 ]
